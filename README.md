@@ -86,3 +86,6 @@ by year and country, and splitting the airports into different sheets to improve
 <p align="center">
   <img src="Images/Final Dashboard After Customisation .png" width="800"/>
 </p>
+
+## ⚠️ Disclaimer
+This repository has been developed for academic and educational purposes to demonstrate Business Intelligence concepts, data processing techniques, and interactive dashboard development. All datasets, visualisations, and analytical outputs are based on a simulated scenario and are intended solely for learning and demonstration purposes. 
