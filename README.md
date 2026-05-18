@@ -47,3 +47,15 @@ by year and country, and splitting the airports into different sheets to improve
 <p align="center">
   <img src="Images/Sample of Cleaned Dataset .png" width="800"/>
 </p>
+
+- An improved version of this data was imported into Power BI for analysis.
+
+<p align="center">
+  <img src="Images/Data Imported into Power BI After Pre-Processing in MS Excel .png" width="800"/>
+</p>
+
+- A prototype dashboard was developed through several visualisations.
+
+<p align="center">
+  <img src="Images/Prototype Power BI Dashboard .png" width="800"/>
+</p>
