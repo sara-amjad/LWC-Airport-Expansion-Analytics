@@ -59,3 +59,11 @@ by year and country, and splitting the airports into different sheets to improve
 <p align="center">
   <img src="Images/Prototype Power BI Dashboard .png" width="800"/>
 </p>
+
+## 🔧 Improvement of the Business Intelligence Tool Through Feedback
+
+Feedback was gathered from the simulated Teradata analytics team and LWC stakeholders to improve dashboard clarity, interaction, and analytical precision.
+
+<p align="center">
+  <img src="Images/Feedback Loop .png" width="800"/>
+</p>
