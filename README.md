@@ -31,3 +31,7 @@ Microsoft Excel was used for data cleaning and preprocessing, while Power BI was
 5. 📈 Interactive dashboards developed  
 6. 🌍 Passenger and revenue trends analysed  
 7. 🎯 Insights generated for expansion planning  
+## 🔄 Business Intelligence Tool Design and Implementation
+
+### 📥 Dataset Collection and Preparation
+Passenger and airport datasets related to the UK, Pakistan, and Dubai were collected and organised using Microsoft Excel.
