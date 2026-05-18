@@ -34,4 +34,16 @@ Microsoft Excel was used for data cleaning and preprocessing, while Power BI was
 ## 🔄 Business Intelligence Tool Design and Implementation
 
 ### 📥 Dataset Collection and Preparation
-Passenger and airport datasets related to the UK, Pakistan, and Dubai were collected and organised using Microsoft Excel.
+
+- Passenger and airport datasets related to the UK, Pakistan, and Dubai were collected and organised using Microsoft Excel.
+
+<p align="center">
+  <img src="Images/Raw Dataset Related to Passenger Data .png" width="800"/>
+</p>
+
+- The data underwent cleaning to eliminate the duplicates, sorting them 
+by year and country, and splitting the airports into different sheets to improve the organisation.
+
+<p align="center">
+  <img src="Images/Sample of Cleaned Dataset .png" width="800"/>
+</p>
