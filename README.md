@@ -16,7 +16,6 @@ Microsoft Excel was used for data cleaning and preprocessing, while Power BI was
 - ✈️ Airport passenger trend analysis  
 - 💰 Revenue and luxury spending analytics  
 - 📈 KPI monitoring using DAX measures  
-- 🌍 Airport and country comparison visualisations  
 - 🧹 Data cleaning and preprocessing using Excel  
 - 🗺 Geographic map visualisations  
 - 🎛 Interactive slicers and filtering  
@@ -62,8 +61,28 @@ by year and country, and splitting the airports into different sheets to improve
 
 ## 🔧 Improvement of the Business Intelligence Tool Through Feedback
 
-Feedback was gathered from the simulated Teradata analytics team and LWC stakeholders to improve dashboard clarity, interaction, and analytical precision.
+- Feedback was gathered from the simulated Teradata analytics team and LWC stakeholders to improve dashboard clarity, interaction, and analytical precision.
 
 <p align="center">
   <img src="Images/Feedback Loop .png" width="800"/>
+</p>
+
+- Based on stakeholder feedback, interactive slicers, KPI indicators, geographical map visualisations, and dashboard layout enhancements were integrated to improve analytical clarity, usability, real-time insights, and overall user experience.
+
+<p align="center">
+  <img src="Images/Final Improved Power BI Dashboard.png" width="800"/>
+</p>
+
+## ⚙ Business Intelligence Solution Customisation Using DAX
+
+- DAX measures were implemented in Power BI to automate calculations and improve dashboard analytical performance.
+  
+<p align="center">
+  <img src="Images/Power BI Interface Highlighting the DAX Formula.png" width="800"/>
+</p>
+
+- The dashboard layout, visualisations, KPI displays, and interactive components were further refined to improve usability, analytical clarity, navigation, and overall user experience.
+
+<p align="center">
+  <img src="Images/Final Dashboard After Customisation .png" width="800"/>
 </p>
